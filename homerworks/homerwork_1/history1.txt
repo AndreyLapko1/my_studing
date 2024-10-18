@@ -1,0 +1,30 @@
+ 1001  touch task_ANDREY.sh
+ 1002  ls -la
+ 1003  nano task_ANDREY.sh 
+ 1004  ls -la
+ 1005  chmod 777 task_ANDREY.sh 
+ 1006  ls -la
+ 1007  crontab -l
+ 1008  ls -la
+ 1009  nano task_ANDREY.sh 
+ 1010  crontab -l
+ 1011  export EDITOR=nano
+ 1012  crontab -e
+ 1013  cat task_ANDREY.sh 
+ 1014  crontab -l
+ 1015  crontab -e
+ 1016  crontab -l
+ 1017  ls -la
+ 1018  cat task_ANDREY.sh 
+ 1019  cd hw1/
+ 1020  ls -la
+ 1021  crontab -e
+ 1022  tar -czvf hw1.tar.gz 17* 
+ 1023  tar -t hw1.tar.gz 
+ 1024  tar -tf hw1.tar.gz 
+ 1025  gunzip hw1.tar.gz 
+ 1026  ls -la
+ 1027  tar -tf hw1.tar 
+ 1028  history
+ 1029  history | tail -30 
+ 1030  history | tail -30 >> history1.txt
